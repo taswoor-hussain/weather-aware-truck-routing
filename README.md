@@ -2,8 +2,7 @@
 
 A React + Django app that helps a truck driver choose the safest route. It compares three truck routes using the forecast at the time the truck will actually reach each checkpoint, the load weight, and the travel time.
 
-**Live app:** LIVE_URL_PLACEHOLDER
-**Walkthrough:** LOOM_URL_PLACEHOLDER
+**Live app:** https://web-production-807d1d.up.railway.app
 
 ## What it does
 
